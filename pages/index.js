@@ -83,7 +83,7 @@ export default function Home() {
                 biologists, chemists, physicists, pharmacists, material
                 scientists, and clinicians work together to solve challenges in
                 holistic and creative approaches. We love exciting and hard
-                problems that will have an impact on people's lives.
+                problems that will have an impact on people&apos;s lives.
               </AboutusText>
             </div>
           </div>
