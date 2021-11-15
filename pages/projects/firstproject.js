@@ -13,7 +13,7 @@ const Soluteeditor = dynamic(() => import("../../components/Editorone"), {
   ssr: false,
 });
 
-const firstproject = () => {
+const Firstproject = () => {
   const [solutestate, setSoluteState] = useState();
   const [fetchData, setFetchData] = useState("");
   const [Error, setError] = useState(null);
@@ -360,7 +360,7 @@ const firstproject = () => {
   );
 };
 
-export default firstproject;
+export default Firstproject;
 
 const Header = tw.div`
 relative pt-16 pb-32 flex content-center items-center justify-center
